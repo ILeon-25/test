@@ -1,6 +1,8 @@
-  // JavaScript
-  
-  var username;
-  
-  function abc(){
-  }
+// JavaScript
+
+var username;
+
+function abc(element) {
+  username = element;
+
+}
